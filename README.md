@@ -1,5 +1,7 @@
-# WindowsGSM.RedN
+# WindowsGSM.RedM
 WindowsGSM plugin that provides Red Dead Redemption 2 Dedicated server support!
+
+# Important announcement!!! Just download the server, database and scripts are added manually
 
 # Requirements
 WindowsGSM >= 1.21.0
