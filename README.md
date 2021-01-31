@@ -1,6 +1,9 @@
 # WindowsGSM.RedM
 WindowsGSM plugin that provides Red Dead Redemption 2 Dedicated server support!
 
+# The Game
+https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
+
 # Important announcement!!! Just download the server, database and scripts are added manually
 
 # Requirements
